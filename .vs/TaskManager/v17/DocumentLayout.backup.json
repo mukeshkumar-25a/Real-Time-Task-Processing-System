@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9C3EA1-C456-4080-9850-CE5246B0B092}|src\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.infrastructure\\queue\\redistaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9C3EA1-C456-4080-9850-CE5246B0B092}|src\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:src\\taskmanager.infrastructure\\queue\\redistaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001F4551-5CFB-4C42-8402-1A7BEF096009}|src\\TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.api\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{001F4551-5CFB-4C42-8402-1A7BEF096009}|src\\TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:src\\taskmanager.api\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001F4551-5CFB-4C42-8402-1A7BEF096009}|src\\TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{001F4551-5CFB-4C42-8402-1A7BEF096009}|src\\TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:src\\taskmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.core\\entities\\idempotencyrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:src\\taskmanager.core\\entities\\idempotencyrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.core\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:src\\taskmanager.core\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.core\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:src\\taskmanager.core\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9C3EA1-C456-4080-9850-CE5246B0B092}|src\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9C3EA1-C456-4080-9850-CE5246B0B092}|src\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:src\\taskmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.core\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5338C9-0FB8-42B8-879C-65E5D7FC6F85}|src\\TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:src\\taskmanager.core\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001F4551-5CFB-4C42-8402-1A7BEF096009}|src\\TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001F4551-5CFB-4C42-8402-1A7BEF096009}|src\\TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:src\\taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9C3EA1-C456-4080-9850-CE5246B0B092}|src\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|c:\\users\\dell\\downloads\\mokeshassigment\\mokeshassigment\\src\\taskmanager.infrastructure\\caching\\taskcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9C3EA1-C456-4080-9850-CE5246B0B092}|src\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:src\\taskmanager.infrastructure\\caching\\taskcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\TaskManager.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T11:10:23.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Core\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "src\\TaskManager.Core\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:24:07.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Entities\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Core\\Entities\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Entities\\TaskStatus.cs",
+              "RelativeToolTip": "src\\TaskManager.Core\\Entities\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:24:06.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdempotencyRecord.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Entities\\IdempotencyRecord.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Core\\Entities\\IdempotencyRecord.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Entities\\IdempotencyRecord.cs",
+              "RelativeToolTip": "src\\TaskManager.Core\\Entities\\IdempotencyRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:24:05.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\TaskManager.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Api\\appsettings.json",
+              "RelativeToolTip": "src\\TaskManager.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T10:20:11.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisTaskQueue.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Infrastructure\\Queue\\RedisTaskQueue.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Infrastructure\\Queue\\RedisTaskQueue.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Infrastructure\\Queue\\RedisTaskQueue.cs",
+              "RelativeToolTip": "src\\TaskManager.Infrastructure\\Queue\\RedisTaskQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:16:52.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Api\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "src\\TaskManager.Api\\appsettings.Docker.json",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Api\\appsettings.Docker.json",
+              "RelativeToolTip": "src\\TaskManager.Api\\appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T11:12:18.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Infrastructure\\Caching\\TaskCacheService.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Infrastructure\\Caching\\TaskCacheService.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Infrastructure\\Caching\\TaskCacheService.cs",
+              "RelativeToolTip": "src\\TaskManager.Infrastructure\\Caching\\TaskCacheService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:17:09.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Core\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Core\\Services\\TaskService.cs",
+              "RelativeToolTip": "src\\TaskManager.Core\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:16:15.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "src\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\MokeshAssigment\\MokeshAssigment\\src\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "src\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:11:53.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
